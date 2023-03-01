@@ -12,7 +12,7 @@ Code for this example is in the following two methods: 1) PolyCipherEncode, and 
 
 Screen Grab:
 
-![](https://github.com/eugenedakin/pigpio-GPIO/blob/master/WebsiteXojoImageSmall.jpg)
+![](https://github.com/eugenedakin/PolyAlphabeticCipher/blob/main/PolyScreenGrab.png)
 
 Instructions:
 
