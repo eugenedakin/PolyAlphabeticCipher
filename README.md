@@ -8,7 +8,7 @@ Xojo IDE: 2020 r2.1
 Xojo API: API 2
 Level: Beginner
 
-Code for this example is in the following two methods: 1) PolyCipherEncode, and 2) PolyCipherDecode
+Code for this example is in the following two methods: 1) PolyCipherEncode, and 2) PolyCipherDecode.
 
 Screen Grab:
 
